@@ -1,4 +1,4 @@
-fortgeschrittene-objektorientierung
+advanced-object-oriented-programming
 ===================================
 
-Zusammenfassung zur Vorlesung "Fortgeschrittene Objektorientierung" am KIT (Stand 2014)
+Class summary (Version 2014)
